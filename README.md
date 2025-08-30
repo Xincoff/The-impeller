@@ -8,12 +8,3 @@ The user can change the limit value.
 All data is displayed on the screen.
 The output is 4-20V. 
 The project was commissioned by the organization Atmosphere LLC
-
-LICENSE 
-Copyright (c) 2025 Atmosphere LLC
-
-All Rights Reserved.
-
-Unauthorized copying, modification, distribution, display, or use of this project
-via any medium is strictly prohibited. This project is confidential and proprietary
-and may only be used by explicit permission of the copyright holder.
